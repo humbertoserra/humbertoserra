@@ -1,4 +1,8 @@
-### Hi there 👋
+### Olá! Sou Humberto Serra 👋
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=humbertoserra&show_icons=true&theme=dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=humbertoserra&layout=compact&theme=dark"/>
+</div>
 
 <!--
 **humbertoserra/humbertoserra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
