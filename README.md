@@ -1,10 +1,12 @@
 ## Olá! eu sou Humberto Serra 👋
 
-<div align="center">
+<!--div align="center">
   <a href="https://github.com/humbertoserra">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=humbertoserra&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=humbertoserra&layout=compact&langs_count=7&theme=dark"/>
-</div>
+</div-->
+- Atualmente sou programador delphi na [Acertsoft Sistemas](https://acertsoft.com.br)
+- Desenvolvedor Web Freelancer
 <div style="display: inline_block"><br>
   <img align="center" alt="Beto-Delphi" height="30" width="30" src="https://i0.wp.com/blogs.embarcadero.com/wp-content/uploads/2022/03/delphi-logo-1024-2643841.png" />
   <img align="center" alt="Beto-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
